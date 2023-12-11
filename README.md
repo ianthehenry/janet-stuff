@@ -4,6 +4,7 @@
 - [`cmd`](https://github.com/ianthehenry/cmd) is a command-line argument parsing library.
 - [`pat`](https://github.com/ianthehenry/pat) is an alternative `match` macro.
 - [`jimmy`](https://github.com/ianthehenry/jimmy) is a wrapper around [`immer`](https://github.com/arximboldi/immer), a persistent data structure library.
+- [`cmp`](https://github.com/ianthehenry/cmp) is a library of useful comparator helpers for sorting things.
 - [`square`](https://github.com/ianthehenry/square) is an alternate syntax for writing PEGs.
 - [`banquet`](https://github.com/ianthehenry/banquet) is a library for pretty-printing tables (pairs well with Judge).
 - [`bytemap`](https://github.com/ianthehenry/bytemap) is a library for drawing terminal graphics using braille characters (pairs well with Judge).
